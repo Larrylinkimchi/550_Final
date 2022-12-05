@@ -17,8 +17,6 @@ install:
 clean:
 	rm -f output/*.rds && rm -f output/*.png && rm -f *.html
 
-build:
-	docker build -t larrylin9497/final .
 	
 pull:
 	docker pull larrylin9497/final

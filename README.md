@@ -7,5 +7,5 @@
 # Docker
 *My Docker image is in https://hub.docker.com/repository/docker/larrylin9497/final*
 *To build the container use make pull*
-*To run the container, use make build*
-*To build the compiled final report in the container image run make final_report/report.html*
+*To run the container, use command docker run -it larrylin9497/final*
+*To build the compiled final report locally run make final_report/report.html to run the docker container*
