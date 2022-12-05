@@ -6,6 +6,6 @@
 
 # Docker
 *My Docker image is in https://hub.docker.com/repository/docker/larrylin9497/final*
-*To build the container use make pull*
-*To run the container, use command docker run -it larrylin9497/final*
-*To build the compiled final report locally run make final_report/report.html to run the docker container*
+*Fork and clone github repo*
+*To build the image use make pull*
+*To build the compiled final report locally run `make report/550_project_report_Xiuran_Lin.html`*
